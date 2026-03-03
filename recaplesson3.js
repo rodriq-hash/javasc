@@ -7,7 +7,7 @@ function addition (){
 }
 // call the function 
 addition()
-// functio to subtract two numbers
+// function to subtract two numbers
 function subtraction() {
     let num1=830
     let num2=540
